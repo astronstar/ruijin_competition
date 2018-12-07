@@ -388,7 +388,7 @@ T343	Disease 6616 6621	2型糖尿病
 T344	Test 6621 6629	HBA1C  c
 R1	Test_Disease Arg1:T369 Arg2:T368
 R2	Test_Disease Arg1:T13 Arg2:T25
-R3	Test_Disease Arg1:T13 Arg2:T25
+R3	Test_Disease Arg1:T14 Arg2:T25
 R4	Test_Disease Arg1:T3 Arg2:T25
 R5	Test_Disease Arg1:T31 Arg2:T33
 R6	Test_Disease Arg1:T32 Arg2:T33
